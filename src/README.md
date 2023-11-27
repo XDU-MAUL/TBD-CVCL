@@ -1,8 +1,5 @@
 # CVCL
 
-This is the demo for the paper *"Unsupervised Cross-view Subspace Clustering via Adaptive Contrastive Learning (CVCL)"*.
-
-
 ## Dependencies
 
 - Python 3.6
