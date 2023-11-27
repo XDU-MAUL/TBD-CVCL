@@ -1,0 +1,2650 @@
+(2000, 784)
+(2000, 784)
+[9 0 0 ... 3 5 8]
+step2
+---------------------------------------
+torch.Size([14392000])
+Epoch 0/1000
+Loss_re is:33.5458
+Loss_r is:2988018944.0000
+Loss is:2988097024.0000
+contrastive_loss is:10.7671
+        |==>  acc: 0.5730,  nmi: 0.6407  <==|
+torch.Size([14392000])
+Epoch 1/1000
+Loss_re is:37.5313
+Loss_r is:16644876288.0000
+Loss is:16645808128.0000
+contrastive_loss is:11.4173
+        |==>  acc: 0.5745,  nmi: 0.6427  <==|
+torch.Size([14392000])
+Epoch 2/1000
+Loss_re is:36.2718
+Loss_r is:5604716544.0000
+Loss is:5605064192.0000
+contrastive_loss is:9.4286
+        |==>  acc: 0.5800,  nmi: 0.6482  <==|
+torch.Size([14392000])
+Epoch 3/1000
+Loss_re is:37.7875
+Loss_r is:6003145728.0000
+Loss is:6003491328.0000
+contrastive_loss is:8.4927
+        |==>  acc: 0.5800,  nmi: 0.6464  <==|
+torch.Size([14392000])
+Epoch 4/1000
+Loss_re is:41.3291
+Loss_r is:7104364032.0000
+Loss is:7104884736.0000
+contrastive_loss is:8.2540
+        |==>  acc: 0.5780,  nmi: 0.6469  <==|
+torch.Size([14392000])
+Epoch 5/1000
+Loss_re is:45.3155
+Loss_r is:7422181888.0000
+Loss is:7422831616.0000
+contrastive_loss is:8.1993
+        |==>  acc: 0.5775,  nmi: 0.6462  <==|
+torch.Size([14392000])
+Epoch 6/1000
+Loss_re is:49.0953
+Loss_r is:7303115264.0000
+Loss is:7303810560.0000
+contrastive_loss is:8.1917
+        |==>  acc: 0.5750,  nmi: 0.6420  <==|
+torch.Size([14392000])
+Epoch 7/1000
+Loss_re is:52.8156
+Loss_r is:7182779904.0000
+Loss is:7183483392.0000
+contrastive_loss is:8.1923
+        |==>  acc: 0.5775,  nmi: 0.6426  <==|
+torch.Size([14392000])
+Epoch 8/1000
+Loss_re is:56.7118
+Loss_r is:7118172160.0000
+Loss is:7118886912.0000
+contrastive_loss is:8.1881
+        |==>  acc: 0.5760,  nmi: 0.6415  <==|
+torch.Size([14392000])
+Epoch 9/1000
+Loss_re is:60.9243
+Loss_r is:7017810432.0000
+Loss is:7018563072.0000
+contrastive_loss is:8.1755
+        |==>  acc: 0.5720,  nmi: 0.6381  <==|
+torch.Size([14392012])
+Epoch 10/1000
+Loss_re is:65.4789
+Loss_r is:6825911296.0000
+Loss is:6826737152.0000
+contrastive_loss is:8.1540
+        |==>  acc: 0.6100,  nmi: 0.6344  <==|
+torch.Size([14392024])
+Epoch 11/1000
+Loss_re is:70.2941
+Loss_r is:6556215808.0000
+Loss is:6557154816.0000
+contrastive_loss is:8.1252
+        |==>  acc: 0.6100,  nmi: 0.6338  <==|
+torch.Size([14392040])
+Epoch 12/1000
+Loss_re is:75.1911
+Loss_r is:6269591552.0000
+Loss is:6270679040.0000
+contrastive_loss is:8.0917
+        |==>  acc: 0.6105,  nmi: 0.6325  <==|
+torch.Size([14392040])
+Epoch 13/1000
+Loss_re is:79.9076
+Loss_r is:6039131648.0000
+Loss is:6040388608.0000
+contrastive_loss is:8.0557
+        |==>  acc: 0.6080,  nmi: 0.6320  <==|
+torch.Size([14392032])
+Epoch 14/1000
+Loss_re is:84.1419
+Loss_r is:5894538240.0000
+Loss is:5895955968.0000
+contrastive_loss is:8.0189
+        |==>  acc: 0.6100,  nmi: 0.6309  <==|
+torch.Size([14392024])
+Epoch 15/1000
+Loss_re is:87.6492
+Loss_r is:5793594368.0000
+Loss is:5795126784.0000
+contrastive_loss is:7.9815
+        |==>  acc: 0.6090,  nmi: 0.6293  <==|
+torch.Size([14392020])
+Epoch 16/1000
+Loss_re is:90.3323
+Loss_r is:5665578496.0000
+Loss is:5667151872.0000
+contrastive_loss is:7.9424
+        |==>  acc: 0.5675,  nmi: 0.6290  <==|
+torch.Size([14392012])
+Epoch 17/1000
+Loss_re is:92.2996
+Loss_r is:5493893632.0000
+Loss is:5495434240.0000
+contrastive_loss is:7.9001
+        |==>  acc: 0.5635,  nmi: 0.6288  <==|
+torch.Size([14392004])
+Epoch 18/1000
+Loss_re is:93.8185
+Loss_r is:5326920704.0000
+Loss is:5328382464.0000
+contrastive_loss is:7.8531
+        |==>  acc: 0.5615,  nmi: 0.6266  <==|
+torch.Size([14392000])
+Epoch 19/1000
+Loss_re is:95.1991
+Loss_r is:5212306432.0000
+Loss is:5213678080.0000
+contrastive_loss is:7.8003
+        |==>  acc: 0.5615,  nmi: 0.6298  <==|
+torch.Size([14392000])
+Epoch 20/1000
+Loss_re is:96.7001
+Loss_r is:5155432960.0000
+Loss is:5156733440.0000
+contrastive_loss is:7.7419
+        |==>  acc: 0.5615,  nmi: 0.6311  <==|
+torch.Size([14392000])
+Epoch 21/1000
+Loss_re is:98.4863
+Loss_r is:5120071680.0000
+Loss is:5121330688.0000
+contrastive_loss is:7.6806
+        |==>  acc: 0.5615,  nmi: 0.6303  <==|
+torch.Size([14392000])
+Epoch 22/1000
+Loss_re is:100.6106
+Loss_r is:5077199872.0000
+Loss is:5078449152.0000
+contrastive_loss is:7.6171
+        |==>  acc: 0.5605,  nmi: 0.6290  <==|
+torch.Size([14392000])
+Epoch 23/1000
+Loss_re is:103.0407
+Loss_r is:5027227648.0000
+Loss is:5028498432.0000
+contrastive_loss is:7.5520
+        |==>  acc: 0.5595,  nmi: 0.6285  <==|
+torch.Size([14392000])
+Epoch 24/1000
+Loss_re is:105.6934
+Loss_r is:4981790720.0000
+Loss is:4983106048.0000
+contrastive_loss is:7.4849
+        |==>  acc: 0.5595,  nmi: 0.6274  <==|
+torch.Size([14392000])
+Epoch 25/1000
+Loss_re is:108.4653
+Loss_r is:4945760256.0000
+Loss is:4947130368.0000
+contrastive_loss is:7.4148
+        |==>  acc: 0.5590,  nmi: 0.6279  <==|
+torch.Size([14392000])
+Epoch 26/1000
+Loss_re is:111.2556
+Loss_r is:4911659008.0000
+Loss is:4913081344.0000
+contrastive_loss is:7.3409
+        |==>  acc: 0.5590,  nmi: 0.6275  <==|
+torch.Size([14392000])
+Epoch 27/1000
+Loss_re is:113.9820
+Loss_r is:4867036160.0000
+Loss is:4868498432.0000
+contrastive_loss is:7.2630
+        |==>  acc: 0.5615,  nmi: 0.6261  <==|
+torch.Size([14392000])
+Epoch 28/1000
+Loss_re is:116.6208
+Loss_r is:4806975488.0000
+Loss is:4808462848.0000
+contrastive_loss is:7.1818
+        |==>  acc: 0.5585,  nmi: 0.6261  <==|
+torch.Size([14392000])
+Epoch 29/1000
+Loss_re is:119.1979
+Loss_r is:4741022720.0000
+Loss is:4742525440.0000
+contrastive_loss is:7.0993
+        |==>  acc: 0.5575,  nmi: 0.6232  <==|
+torch.Size([14392000])
+Epoch 30/1000
+Loss_re is:121.7644
+Loss_r is:4678159360.0000
+Loss is:4679678464.0000
+contrastive_loss is:7.0183
+        |==>  acc: 0.5575,  nmi: 0.6230  <==|
+torch.Size([14392000])
+Epoch 31/1000
+Loss_re is:124.3930
+Loss_r is:4622827008.0000
+Loss is:4624374272.0000
+contrastive_loss is:6.9415
+        |==>  acc: 0.5620,  nmi: 0.6272  <==|
+torch.Size([14392000])
+Epoch 32/1000
+Loss_re is:127.1364
+Loss_r is:4570575360.0000
+Loss is:4572171776.0000
+contrastive_loss is:6.8697
+        |==>  acc: 0.5585,  nmi: 0.6244  <==|
+torch.Size([14392000])
+Epoch 33/1000
+Loss_re is:130.0040
+Loss_r is:4511987712.0000
+Loss is:4513654272.0000
+contrastive_loss is:6.7998
+        |==>  acc: 0.5610,  nmi: 0.6270  <==|
+torch.Size([14392000])
+Epoch 34/1000
+Loss_re is:132.9517
+Loss_r is:4446440448.0000
+Loss is:4448193024.0000
+contrastive_loss is:6.7279
+        |==>  acc: 0.5640,  nmi: 0.6299  <==|
+torch.Size([14392000])
+Epoch 35/1000
+Loss_re is:135.9002
+Loss_r is:4383975424.0000
+Loss is:4385822208.0000
+contrastive_loss is:6.6540
+        |==>  acc: 0.5630,  nmi: 0.6301  <==|
+torch.Size([14392000])
+Epoch 36/1000
+Loss_re is:138.7556
+Loss_r is:4329443328.0000
+Loss is:4331386880.0000
+contrastive_loss is:6.5793
+        |==>  acc: 0.5645,  nmi: 0.6306  <==|
+torch.Size([14392000])
+Epoch 37/1000
+Loss_re is:141.4400
+Loss_r is:4272520192.0000
+Loss is:4274560512.0000
+contrastive_loss is:6.5036
+        |==>  acc: 0.5645,  nmi: 0.6309  <==|
+torch.Size([14392000])
+Epoch 38/1000
+Loss_re is:143.9344
+Loss_r is:4209825280.0000
+Loss is:4211963904.0000
+contrastive_loss is:6.4277
+        |==>  acc: 0.5660,  nmi: 0.6308  <==|
+torch.Size([14392000])
+Epoch 39/1000
+Loss_re is:146.2773
+Loss_r is:4151836160.0000
+Loss is:4154081280.0000
+contrastive_loss is:6.3572
+        |==>  acc: 0.5675,  nmi: 0.6311  <==|
+torch.Size([14392000])
+Epoch 40/1000
+Loss_re is:148.5323
+Loss_r is:4100924928.0000
+Loss is:4103284736.0000
+contrastive_loss is:6.2959
+        |==>  acc: 0.5680,  nmi: 0.6326  <==|
+torch.Size([14392000])
+Epoch 41/1000
+Loss_re is:150.7368
+Loss_r is:4043939328.0000
+Loss is:4046407680.0000
+contrastive_loss is:6.2311
+        |==>  acc: 0.5695,  nmi: 0.6336  <==|
+torch.Size([14392000])
+Epoch 42/1000
+Loss_re is:152.8527
+Loss_r is:3985306112.0000
+Loss is:3987868928.0000
+contrastive_loss is:6.1581
+        |==>  acc: 0.5675,  nmi: 0.6345  <==|
+torch.Size([14392000])
+Epoch 43/1000
+Loss_re is:154.7884
+Loss_r is:3939050240.0000
+Loss is:3941695232.0000
+contrastive_loss is:6.0916
+        |==>  acc: 0.5720,  nmi: 0.6368  <==|
+torch.Size([14392000])
+Epoch 44/1000
+Loss_re is:156.4800
+Loss_r is:3895809024.0000
+Loss is:3898524928.0000
+contrastive_loss is:6.0323
+        |==>  acc: 0.5725,  nmi: 0.6377  <==|
+torch.Size([14392000])
+Epoch 45/1000
+Loss_re is:157.9635
+Loss_r is:3849963264.0000
+Loss is:3852737280.0000
+contrastive_loss is:5.9690
+        |==>  acc: 0.5690,  nmi: 0.6372  <==|
+torch.Size([14392000])
+Epoch 46/1000
+Loss_re is:159.3616
+Loss_r is:3811534848.0000
+Loss is:3814354944.0000
+contrastive_loss is:5.9183
+        |==>  acc: 0.5730,  nmi: 0.6383  <==|
+torch.Size([14392000])
+Epoch 47/1000
+Loss_re is:160.7911
+Loss_r is:3771471872.0000
+Loss is:3774317568.0000
+contrastive_loss is:5.8747
+        |==>  acc: 0.5745,  nmi: 0.6407  <==|
+torch.Size([14392000])
+Epoch 48/1000
+Loss_re is:162.2826
+Loss_r is:3728909056.0000
+Loss is:3731765504.0000
+contrastive_loss is:5.8224
+        |==>  acc: 0.5740,  nmi: 0.6407  <==|
+torch.Size([14392000])
+Epoch 49/1000
+Loss_re is:163.7988
+Loss_r is:3692128768.0000
+Loss is:3694993664.0000
+contrastive_loss is:5.7765
+        |==>  acc: 0.5740,  nmi: 0.6401  <==|
+torch.Size([14392000])
+Epoch 50/1000
+Loss_re is:165.3061
+Loss_r is:3653524736.0000
+Loss is:3656402944.0000
+contrastive_loss is:5.7334
+        |==>  acc: 0.5725,  nmi: 0.6384  <==|
+torch.Size([14392000])
+Epoch 51/1000
+Loss_re is:166.8230
+Loss_r is:3615015936.0000
+Loss is:3617911296.0000
+contrastive_loss is:5.6820
+        |==>  acc: 0.5705,  nmi: 0.6362  <==|
+torch.Size([14392000])
+Epoch 52/1000
+Loss_re is:168.3934
+Loss_r is:3581870592.0000
+Loss is:3584780544.0000
+contrastive_loss is:5.6314
+        |==>  acc: 0.6155,  nmi: 0.6375  <==|
+torch.Size([14392000])
+Epoch 53/1000
+Loss_re is:170.0245
+Loss_r is:3546931712.0000
+Loss is:3549846784.0000
+contrastive_loss is:5.5812
+        |==>  acc: 0.6150,  nmi: 0.6360  <==|
+torch.Size([14392000])
+Epoch 54/1000
+Loss_re is:171.6654
+Loss_r is:3514294016.0000
+Loss is:3517207296.0000
+contrastive_loss is:5.5351
+        |==>  acc: 0.6135,  nmi: 0.6357  <==|
+torch.Size([14392000])
+Epoch 55/1000
+Loss_re is:173.2458
+Loss_r is:3485246464.0000
+Loss is:3488156416.0000
+contrastive_loss is:5.4865
+        |==>  acc: 0.6135,  nmi: 0.6363  <==|
+torch.Size([14392000])
+Epoch 56/1000
+Loss_re is:174.7365
+Loss_r is:3454661888.0000
+Loss is:3457569792.0000
+contrastive_loss is:5.4296
+        |==>  acc: 0.6135,  nmi: 0.6348  <==|
+torch.Size([14392000])
+Epoch 57/1000
+Loss_re is:176.1706
+Loss_r is:3427147520.0000
+Loss is:3430054400.0000
+contrastive_loss is:5.3815
+        |==>  acc: 0.6150,  nmi: 0.6367  <==|
+torch.Size([14392000])
+Epoch 58/1000
+Loss_re is:177.5995
+Loss_r is:3400382976.0000
+Loss is:3403287552.0000
+contrastive_loss is:5.3341
+        |==>  acc: 0.6155,  nmi: 0.6380  <==|
+torch.Size([14392000])
+Epoch 59/1000
+Loss_re is:179.0398
+Loss_r is:3372672256.0000
+Loss is:3375574528.0000
+contrastive_loss is:5.2809
+        |==>  acc: 0.6145,  nmi: 0.6379  <==|
+torch.Size([14392000])
+Epoch 60/1000
+Loss_re is:180.4664
+Loss_r is:3347862016.0000
+Loss is:3350767360.0000
+contrastive_loss is:5.2297
+        |==>  acc: 0.6150,  nmi: 0.6369  <==|
+torch.Size([14392000])
+Epoch 61/1000
+Loss_re is:181.8522
+Loss_r is:3322437120.0000
+Loss is:3325353728.0000
+contrastive_loss is:5.1734
+        |==>  acc: 0.6140,  nmi: 0.6358  <==|
+torch.Size([14392000])
+Epoch 62/1000
+Loss_re is:183.2132
+Loss_r is:3298044928.0000
+Loss is:3300979200.0000
+contrastive_loss is:5.1134
+        |==>  acc: 0.6150,  nmi: 0.6373  <==|
+torch.Size([14392000])
+Epoch 63/1000
+Loss_re is:184.5951
+Loss_r is:3275317248.0000
+Loss is:3278269952.0000
+contrastive_loss is:5.0508
+        |==>  acc: 0.6150,  nmi: 0.6375  <==|
+torch.Size([14392000])
+Epoch 64/1000
+Loss_re is:186.0200
+Loss_r is:3252298752.0000
+Loss is:3255267840.0000
+contrastive_loss is:4.9852
+        |==>  acc: 0.6145,  nmi: 0.6359  <==|
+torch.Size([14392000])
+Epoch 65/1000
+Loss_re is:187.4635
+Loss_r is:3231259136.0000
+Loss is:3234246656.0000
+contrastive_loss is:4.9185
+        |==>  acc: 0.6135,  nmi: 0.6347  <==|
+torch.Size([14392000])
+Epoch 66/1000
+Loss_re is:188.8906
+Loss_r is:3209913856.0000
+Loss is:3212924416.0000
+contrastive_loss is:4.8475
+        |==>  acc: 0.6155,  nmi: 0.6363  <==|
+torch.Size([14392000])
+Epoch 67/1000
+Loss_re is:190.3031
+Loss_r is:3189330688.0000
+Loss is:3192366592.0000
+contrastive_loss is:4.7736
+        |==>  acc: 0.6165,  nmi: 0.6384  <==|
+torch.Size([14392000])
+Epoch 68/1000
+Loss_re is:191.7301
+Loss_r is:3169596416.0000
+Loss is:3172651520.0000
+contrastive_loss is:4.6978
+        |==>  acc: 0.6170,  nmi: 0.6380  <==|
+torch.Size([14392000])
+Epoch 69/1000
+Loss_re is:193.1764
+Loss_r is:3149793024.0000
+Loss is:3152857856.0000
+contrastive_loss is:4.6236
+        |==>  acc: 0.6165,  nmi: 0.6368  <==|
+torch.Size([14392000])
+Epoch 70/1000
+Loss_re is:194.6090
+Loss_r is:3130941440.0000
+Loss is:3134010112.0000
+contrastive_loss is:4.5471
+        |==>  acc: 0.6155,  nmi: 0.6361  <==|
+torch.Size([14392000])
+Epoch 71/1000
+Loss_re is:196.0098
+Loss_r is:3111693824.0000
+Loss is:3114763776.0000
+contrastive_loss is:4.4685
+        |==>  acc: 0.6145,  nmi: 0.6354  <==|
+torch.Size([14392000])
+Epoch 72/1000
+Loss_re is:197.4120
+Loss_r is:3093354496.0000
+Loss is:3096423168.0000
+contrastive_loss is:4.3904
+        |==>  acc: 0.6150,  nmi: 0.6370  <==|
+torch.Size([14392000])
+Epoch 73/1000
+Loss_re is:198.8551
+Loss_r is:3074713088.0000
+Loss is:3077778432.0000
+contrastive_loss is:4.3150
+        |==>  acc: 0.6140,  nmi: 0.6350  <==|
+torch.Size([14392000])
+Epoch 74/1000
+Loss_re is:200.3246
+Loss_r is:3056660480.0000
+Loss is:3059725312.0000
+contrastive_loss is:4.2435
+        |==>  acc: 0.6145,  nmi: 0.6355  <==|
+torch.Size([14392000])
+Epoch 75/1000
+Loss_re is:201.7809
+Loss_r is:3038390272.0000
+Loss is:3041460992.0000
+contrastive_loss is:4.1678
+        |==>  acc: 0.6140,  nmi: 0.6354  <==|
+torch.Size([14392000])
+Epoch 76/1000
+Loss_re is:203.2236
+Loss_r is:3020632064.0000
+Loss is:3023712768.0000
+contrastive_loss is:4.0895
+        |==>  acc: 0.6145,  nmi: 0.6361  <==|
+torch.Size([14392000])
+Epoch 77/1000
+Loss_re is:204.6710
+Loss_r is:3002851840.0000
+Loss is:3005943808.0000
+contrastive_loss is:4.0153
+        |==>  acc: 0.6145,  nmi: 0.6365  <==|
+torch.Size([14392000])
+Epoch 78/1000
+Loss_re is:206.1025
+Loss_r is:2985553920.0000
+Loss is:2988659712.0000
+contrastive_loss is:3.9404
+        |==>  acc: 0.6135,  nmi: 0.6356  <==|
+torch.Size([14392000])
+Epoch 79/1000
+Loss_re is:207.4865
+Loss_r is:2968370944.0000
+Loss is:2971493120.0000
+contrastive_loss is:3.8647
+        |==>  acc: 0.6135,  nmi: 0.6352  <==|
+torch.Size([14392000])
+Epoch 80/1000
+Loss_re is:208.8319
+Loss_r is:2951603712.0000
+Loss is:2954742272.0000
+contrastive_loss is:3.7922
+        |==>  acc: 0.6145,  nmi: 0.6365  <==|
+torch.Size([14392000])
+Epoch 81/1000
+Loss_re is:210.1680
+Loss_r is:2935051264.0000
+Loss is:2938205184.0000
+contrastive_loss is:3.7248
+        |==>  acc: 0.6145,  nmi: 0.6383  <==|
+torch.Size([14392000])
+Epoch 82/1000
+Loss_re is:211.4944
+Loss_r is:2918998016.0000
+Loss is:2922164992.0000
+contrastive_loss is:3.6639
+        |==>  acc: 0.6135,  nmi: 0.6368  <==|
+torch.Size([14392000])
+Epoch 83/1000
+Loss_re is:212.7978
+Loss_r is:2903044096.0000
+Loss is:2906223616.0000
+contrastive_loss is:3.6057
+        |==>  acc: 0.6135,  nmi: 0.6368  <==|
+torch.Size([14392000])
+Epoch 84/1000
+Loss_re is:214.1005
+Loss_r is:2887388672.0000
+Loss is:2890583552.0000
+contrastive_loss is:3.5532
+        |==>  acc: 0.6140,  nmi: 0.6358  <==|
+torch.Size([14392000])
+Epoch 85/1000
+Loss_re is:215.4306
+Loss_r is:2871540736.0000
+Loss is:2874755328.0000
+contrastive_loss is:3.5038
+        |==>  acc: 0.6135,  nmi: 0.6350  <==|
+torch.Size([14392000])
+Epoch 86/1000
+Loss_re is:216.7698
+Loss_r is:2856092672.0000
+Loss is:2859330048.0000
+contrastive_loss is:3.4623
+        |==>  acc: 0.6135,  nmi: 0.6353  <==|
+torch.Size([14392000])
+Epoch 87/1000
+Loss_re is:218.0992
+Loss_r is:2841146112.0000
+Loss is:2844405248.0000
+contrastive_loss is:3.4201
+        |==>  acc: 0.6145,  nmi: 0.6357  <==|
+torch.Size([14392000])
+Epoch 88/1000
+Loss_re is:219.4340
+Loss_r is:2827821056.0000
+Loss is:2831103488.0000
+contrastive_loss is:3.3865
+        |==>  acc: 0.6130,  nmi: 0.6354  <==|
+torch.Size([14392000])
+Epoch 89/1000
+Loss_re is:220.7851
+Loss_r is:2814851584.0000
+Loss is:2818162432.0000
+contrastive_loss is:3.3547
+        |==>  acc: 0.6130,  nmi: 0.6360  <==|
+torch.Size([14392000])
+Epoch 90/1000
+Loss_re is:222.1019
+Loss_r is:2795739136.0000
+Loss is:2799066112.0000
+contrastive_loss is:3.3138
+        |==>  acc: 0.6125,  nmi: 0.6365  <==|
+torch.Size([14392000])
+Epoch 91/1000
+Loss_re is:223.4216
+Loss_r is:2780057088.0000
+Loss is:2783407104.0000
+contrastive_loss is:3.2769
+        |==>  acc: 0.6135,  nmi: 0.6351  <==|
+torch.Size([14392000])
+Epoch 92/1000
+Loss_re is:224.7506
+Loss_r is:2768124928.0000
+Loss is:2771505408.0000
+contrastive_loss is:3.2455
+        |==>  acc: 0.6125,  nmi: 0.6379  <==|
+torch.Size([14392000])
+Epoch 93/1000
+Loss_re is:226.0399
+Loss_r is:2750526720.0000
+Loss is:2753923584.0000
+contrastive_loss is:3.2066
+        |==>  acc: 0.6135,  nmi: 0.6380  <==|
+torch.Size([14392000])
+Epoch 94/1000
+Loss_re is:227.3268
+Loss_r is:2734524160.0000
+Loss is:2737941760.0000
+contrastive_loss is:3.1689
+        |==>  acc: 0.6120,  nmi: 0.6367  <==|
+torch.Size([14392000])
+Epoch 95/1000
+Loss_re is:228.6220
+Loss_r is:2721887744.0000
+Loss is:2725331456.0000
+contrastive_loss is:3.1357
+        |==>  acc: 0.6125,  nmi: 0.6373  <==|
+torch.Size([14392000])
+Epoch 96/1000
+Loss_re is:229.8841
+Loss_r is:2705132288.0000
+Loss is:2708589568.0000
+contrastive_loss is:3.1006
+        |==>  acc: 0.6125,  nmi: 0.6369  <==|
+torch.Size([14392000])
+Epoch 97/1000
+Loss_re is:231.1454
+Loss_r is:2689164800.0000
+Loss is:2692640256.0000
+contrastive_loss is:3.0653
+        |==>  acc: 0.6120,  nmi: 0.6362  <==|
+torch.Size([14392000])
+Epoch 98/1000
+Loss_re is:232.4088
+Loss_r is:2676055296.0000
+Loss is:2679554048.0000
+contrastive_loss is:3.0353
+        |==>  acc: 0.6125,  nmi: 0.6362  <==|
+torch.Size([14392000])
+Epoch 99/1000
+Loss_re is:233.6475
+Loss_r is:2660274176.0000
+Loss is:2663788032.0000
+contrastive_loss is:3.0049
+        |==>  acc: 0.6130,  nmi: 0.6368  <==|
+torch.Size([14392000])
+Epoch 100/1000
+Loss_re is:234.8966
+Loss_r is:2644115456.0000
+Loss is:2647655680.0000
+contrastive_loss is:2.9742
+        |==>  acc: 0.6285,  nmi: 0.6509  <==|
+torch.Size([14392000])
+Epoch 101/1000
+Loss_re is:236.1364
+Loss_r is:2630368256.0000
+Loss is:2633937920.0000
+contrastive_loss is:2.9495
+        |==>  acc: 0.5875,  nmi: 0.6476  <==|
+torch.Size([14392000])
+Epoch 102/1000
+Loss_re is:237.3442
+Loss_r is:2615692032.0000
+Loss is:2619282432.0000
+contrastive_loss is:2.9246
+        |==>  acc: 0.5875,  nmi: 0.6468  <==|
+torch.Size([14392000])
+Epoch 103/1000
+Loss_re is:238.5521
+Loss_r is:2599609856.0000
+Loss is:2603228160.0000
+contrastive_loss is:2.8988
+        |==>  acc: 0.6215,  nmi: 0.6554  <==|
+torch.Size([14392000])
+Epoch 104/1000
+Loss_re is:239.7394
+Loss_r is:2584684544.0000
+Loss is:2588325888.0000
+contrastive_loss is:2.8758
+        |==>  acc: 0.6220,  nmi: 0.6568  <==|
+torch.Size([14392000])
+Epoch 105/1000
+Loss_re is:240.9246
+Loss_r is:2570815488.0000
+Loss is:2574480128.0000
+contrastive_loss is:2.8557
+        |==>  acc: 0.6375,  nmi: 0.6739  <==|
+torch.Size([14392000])
+Epoch 106/1000
+Loss_re is:242.1149
+Loss_r is:2556075520.0000
+Loss is:2559770368.0000
+contrastive_loss is:2.8328
+        |==>  acc: 0.6235,  nmi: 0.6601  <==|
+torch.Size([14392000])
+Epoch 107/1000
+Loss_re is:243.2874
+Loss_r is:2540450304.0000
+Loss is:2544166656.0000
+contrastive_loss is:2.8102
+        |==>  acc: 0.6380,  nmi: 0.6748  <==|
+torch.Size([14392000])
+Epoch 108/1000
+Loss_re is:244.4806
+Loss_r is:2525574656.0000
+Loss is:2529321728.0000
+contrastive_loss is:2.7894
+        |==>  acc: 0.5905,  nmi: 0.6548  <==|
+torch.Size([14392000])
+Epoch 109/1000
+Loss_re is:245.6671
+Loss_r is:2511520256.0000
+Loss is:2515297280.0000
+contrastive_loss is:2.7688
+        |==>  acc: 0.6010,  nmi: 0.6523  <==|
+torch.Size([14392000])
+Epoch 110/1000
+Loss_re is:246.8591
+Loss_r is:2497286656.0000
+Loss is:2501092352.0000
+contrastive_loss is:2.7513
+        |==>  acc: 0.6245,  nmi: 0.6615  <==|
+torch.Size([14392000])
+Epoch 111/1000
+Loss_re is:248.0417
+Loss_r is:2482436096.0000
+Loss is:2486270976.0000
+contrastive_loss is:2.7296
+        |==>  acc: 0.6015,  nmi: 0.6524  <==|
+torch.Size([14392000])
+Epoch 112/1000
+Loss_re is:249.2324
+Loss_r is:2467176448.0000
+Loss is:2471040000.0000
+contrastive_loss is:2.7104
+        |==>  acc: 0.5880,  nmi: 0.6542  <==|
+torch.Size([14392000])
+Epoch 113/1000
+Loss_re is:250.4211
+Loss_r is:2452155648.0000
+Loss is:2456049152.0000
+contrastive_loss is:2.6910
+        |==>  acc: 0.6230,  nmi: 0.6640  <==|
+torch.Size([14392000])
+Epoch 114/1000
+Loss_re is:251.6307
+Loss_r is:2437684736.0000
+Loss is:2441615616.0000
+contrastive_loss is:2.6724
+        |==>  acc: 0.6405,  nmi: 0.6798  <==|
+torch.Size([14392000])
+Epoch 115/1000
+Loss_re is:252.8114
+Loss_r is:2423696128.0000
+Loss is:2427652608.0000
+contrastive_loss is:2.6538
+        |==>  acc: 0.6390,  nmi: 0.6776  <==|
+torch.Size([14392000])
+Epoch 116/1000
+Loss_re is:254.0319
+Loss_r is:2410319360.0000
+Loss is:2414318336.0000
+contrastive_loss is:2.6373
+        |==>  acc: 0.5900,  nmi: 0.6570  <==|
+torch.Size([14392000])
+Epoch 117/1000
+Loss_re is:255.1946
+Loss_r is:2397500160.0000
+Loss is:2401515776.0000
+contrastive_loss is:2.6228
+        |==>  acc: 0.5940,  nmi: 0.6592  <==|
+torch.Size([14392000])
+Epoch 118/1000
+Loss_re is:256.4391
+Loss_r is:2385266176.0000
+Loss is:2389329920.0000
+contrastive_loss is:2.6064
+        |==>  acc: 0.6400,  nmi: 0.6803  <==|
+torch.Size([14392000])
+Epoch 119/1000
+Loss_re is:257.5856
+Loss_r is:2371288320.0000
+Loss is:2375359744.0000
+contrastive_loss is:2.5926
+        |==>  acc: 0.6410,  nmi: 0.6819  <==|
+torch.Size([14392000])
+Epoch 120/1000
+Loss_re is:258.8270
+Loss_r is:2355279360.0000
+Loss is:2359393792.0000
+contrastive_loss is:2.5720
+        |==>  acc: 0.6430,  nmi: 0.6812  <==|
+torch.Size([14392000])
+Epoch 121/1000
+Loss_re is:260.0198
+Loss_r is:2337861376.0000
+Loss is:2341993984.0000
+contrastive_loss is:2.5555
+        |==>  acc: 0.6435,  nmi: 0.6856  <==|
+torch.Size([14392000])
+Epoch 122/1000
+Loss_re is:261.2348
+Loss_r is:2323006208.0000
+Loss is:2327169024.0000
+contrastive_loss is:2.5380
+        |==>  acc: 0.6410,  nmi: 0.6822  <==|
+torch.Size([14392000])
+Epoch 123/1000
+Loss_re is:262.4912
+Loss_r is:2310993664.0000
+Loss is:2315199744.0000
+contrastive_loss is:2.5256
+        |==>  acc: 0.6390,  nmi: 0.6794  <==|
+torch.Size([14392000])
+Epoch 124/1000
+Loss_re is:263.6689
+Loss_r is:2299034112.0000
+Loss is:2303254016.0000
+contrastive_loss is:2.5136
+        |==>  acc: 0.6400,  nmi: 0.6806  <==|
+torch.Size([14392000])
+Epoch 125/1000
+Loss_re is:264.9291
+Loss_r is:2284846848.0000
+Loss is:2289111808.0000
+contrastive_loss is:2.4988
+        |==>  acc: 0.6390,  nmi: 0.6780  <==|
+torch.Size([14392000])
+Epoch 126/1000
+Loss_re is:266.1245
+Loss_r is:2268206848.0000
+Loss is:2272487936.0000
+contrastive_loss is:2.4859
+        |==>  acc: 0.6245,  nmi: 0.6654  <==|
+torch.Size([14392000])
+Epoch 127/1000
+Loss_re is:267.3620
+Loss_r is:2252962048.0000
+Loss is:2257280000.0000
+contrastive_loss is:2.4696
+        |==>  acc: 0.6095,  nmi: 0.6592  <==|
+torch.Size([14392000])
+Epoch 128/1000
+Loss_re is:268.6101
+Loss_r is:2240444928.0000
+Loss is:2244806144.0000
+contrastive_loss is:2.4584
+        |==>  acc: 0.6385,  nmi: 0.6793  <==|
+torch.Size([14392000])
+Epoch 129/1000
+Loss_re is:269.8036
+Loss_r is:2228967936.0000
+Loss is:2233352192.0000
+contrastive_loss is:2.4484
+        |==>  acc: 0.6385,  nmi: 0.6800  <==|
+torch.Size([14392000])
+Epoch 130/1000
+Loss_re is:271.0735
+Loss_r is:2216226048.0000
+Loss is:2220665088.0000
+contrastive_loss is:2.4380
+        |==>  acc: 0.6160,  nmi: 0.6633  <==|
+torch.Size([14392000])
+Epoch 131/1000
+Loss_re is:272.2427
+Loss_r is:2201428480.0000
+Loss is:2205880064.0000
+contrastive_loss is:2.4256
+        |==>  acc: 0.5910,  nmi: 0.6569  <==|
+torch.Size([14392000])
+Epoch 132/1000
+Loss_re is:273.5101
+Loss_r is:2186389248.0000
+Loss is:2190894592.0000
+contrastive_loss is:2.4138
+        |==>  acc: 0.6375,  nmi: 0.6785  <==|
+torch.Size([14392000])
+Epoch 133/1000
+Loss_re is:274.6946
+Loss_r is:2172433152.0000
+Loss is:2176965376.0000
+contrastive_loss is:2.4047
+        |==>  acc: 0.5915,  nmi: 0.6586  <==|
+torch.Size([14392000])
+Epoch 134/1000
+Loss_re is:275.9280
+Loss_r is:2159515904.0000
+Loss is:2164093952.0000
+contrastive_loss is:2.3948
+        |==>  acc: 0.6405,  nmi: 0.6807  <==|
+torch.Size([14392000])
+Epoch 135/1000
+Loss_re is:277.1378
+Loss_r is:2146864128.0000
+Loss is:2151487232.0000
+contrastive_loss is:2.3836
+        |==>  acc: 0.6395,  nmi: 0.6811  <==|
+torch.Size([14392000])
+Epoch 136/1000
+Loss_re is:278.3112
+Loss_r is:2134036608.0000
+Loss is:2138690816.0000
+contrastive_loss is:2.3777
+        |==>  acc: 0.6410,  nmi: 0.6818  <==|
+torch.Size([14392000])
+Epoch 137/1000
+Loss_re is:279.5314
+Loss_r is:2121029248.0000
+Loss is:2125742592.0000
+contrastive_loss is:2.3659
+        |==>  acc: 0.6420,  nmi: 0.6806  <==|
+torch.Size([14392000])
+Epoch 138/1000
+Loss_re is:280.6570
+Loss_r is:2108115072.0000
+Loss is:2112853248.0000
+contrastive_loss is:2.3574
+        |==>  acc: 0.6430,  nmi: 0.6829  <==|
+torch.Size([14392000])
+Epoch 139/1000
+Loss_re is:281.8714
+Loss_r is:2095611904.0000
+Loss is:2100416768.0000
+contrastive_loss is:2.3497
+        |==>  acc: 0.6250,  nmi: 0.6673  <==|
+torch.Size([14392000])
+Epoch 140/1000
+Loss_re is:282.9491
+Loss_r is:2083190784.0000
+Loss is:2088012672.0000
+contrastive_loss is:2.3428
+        |==>  acc: 0.6420,  nmi: 0.6822  <==|
+torch.Size([14392000])
+Epoch 141/1000
+Loss_re is:284.1185
+Loss_r is:2069346816.0000
+Loss is:2074221568.0000
+contrastive_loss is:2.3338
+        |==>  acc: 0.6240,  nmi: 0.6664  <==|
+torch.Size([14392000])
+Epoch 142/1000
+Loss_re is:285.1902
+Loss_r is:2055139968.0000
+Loss is:2060037632.0000
+contrastive_loss is:2.3242
+        |==>  acc: 0.6420,  nmi: 0.6839  <==|
+torch.Size([14392000])
+Epoch 143/1000
+Loss_re is:286.2946
+Loss_r is:2042452608.0000
+Loss is:2047388288.0000
+contrastive_loss is:2.3135
+        |==>  acc: 0.6235,  nmi: 0.6681  <==|
+torch.Size([14392000])
+Epoch 144/1000
+Loss_re is:287.4304
+Loss_r is:2031936896.0000
+Loss is:2036929280.0000
+contrastive_loss is:2.3059
+        |==>  acc: 0.6405,  nmi: 0.6828  <==|
+torch.Size([14392000])
+Epoch 145/1000
+Loss_re is:288.4509
+Loss_r is:2023021568.0000
+Loss is:2028030336.0000
+contrastive_loss is:2.3023
+        |==>  acc: 0.6420,  nmi: 0.6847  <==|
+torch.Size([14392000])
+Epoch 146/1000
+Loss_re is:289.5920
+Loss_r is:2015607296.0000
+Loss is:2020680192.0000
+contrastive_loss is:2.2964
+        |==>  acc: 0.6420,  nmi: 0.6847  <==|
+torch.Size([14392000])
+Epoch 147/1000
+Loss_re is:290.5334
+Loss_r is:2009850368.0000
+Loss is:2014908032.0000
+contrastive_loss is:2.2975
+        |==>  acc: 0.6435,  nmi: 0.6871  <==|
+torch.Size([14392000])
+Epoch 148/1000
+Loss_re is:291.6477
+Loss_r is:1999052800.0000
+Loss is:2004162432.0000
+contrastive_loss is:2.2959
+        |==>  acc: 0.6440,  nmi: 0.6886  <==|
+torch.Size([14392000])
+Epoch 149/1000
+Loss_re is:292.6108
+Loss_r is:1975865216.0000
+Loss is:1980959104.0000
+contrastive_loss is:2.2871
+        |==>  acc: 0.6455,  nmi: 0.6907  <==|
+torch.Size([14392000])
+Epoch 150/1000
+Loss_re is:293.6580
+Loss_r is:1957802752.0000
+Loss is:1962920448.0000
+contrastive_loss is:2.2633
+        |==>  acc: 0.6455,  nmi: 0.6907  <==|
+torch.Size([14392000])
+Epoch 151/1000
+Loss_re is:294.7576
+Loss_r is:1955133184.0000
+Loss is:1960299904.0000
+contrastive_loss is:2.2683
+        |==>  acc: 0.6445,  nmi: 0.6884  <==|
+torch.Size([14392000])
+Epoch 152/1000
+Loss_re is:295.6765
+Loss_r is:1946932480.0000
+Loss is:1952075776.0000
+contrastive_loss is:2.2672
+        |==>  acc: 0.6250,  nmi: 0.6701  <==|
+torch.Size([14392000])
+Epoch 153/1000
+Loss_re is:296.7348
+Loss_r is:1925929984.0000
+Loss is:1931103360.0000
+contrastive_loss is:2.2465
+        |==>  acc: 0.6445,  nmi: 0.6892  <==|
+torch.Size([14392000])
+Epoch 154/1000
+Loss_re is:297.7090
+Loss_r is:1914321280.0000
+Loss is:1919493888.0000
+contrastive_loss is:2.2435
+        |==>  acc: 0.6255,  nmi: 0.6719  <==|
+torch.Size([14392000])
+Epoch 155/1000
+Loss_re is:298.7076
+Loss_r is:1908227200.0000
+Loss is:1913410432.0000
+contrastive_loss is:2.2482
+        |==>  acc: 0.6440,  nmi: 0.6906  <==|
+torch.Size([14392000])
+Epoch 156/1000
+Loss_re is:299.7664
+Loss_r is:1891702016.0000
+Loss is:1896925568.0000
+contrastive_loss is:2.2309
+        |==>  acc: 0.6440,  nmi: 0.6882  <==|
+torch.Size([14392000])
+Epoch 157/1000
+Loss_re is:300.7419
+Loss_r is:1879264512.0000
+Loss is:1884498560.0000
+contrastive_loss is:2.2247
+        |==>  acc: 0.6440,  nmi: 0.6881  <==|
+torch.Size([14392000])
+Epoch 158/1000
+Loss_re is:301.7320
+Loss_r is:1873464832.0000
+Loss is:1878715136.0000
+contrastive_loss is:2.2328
+        |==>  acc: 0.6445,  nmi: 0.6890  <==|
+torch.Size([14392000])
+Epoch 159/1000
+Loss_re is:302.7236
+Loss_r is:1860373504.0000
+Loss is:1865639552.0000
+contrastive_loss is:2.2238
+        |==>  acc: 0.6250,  nmi: 0.6693  <==|
+torch.Size([14392000])
+Epoch 160/1000
+Loss_re is:303.7403
+Loss_r is:1847158528.0000
+Loss is:1852449664.0000
+contrastive_loss is:2.2094
+        |==>  acc: 0.6445,  nmi: 0.6873  <==|
+torch.Size([14392000])
+Epoch 161/1000
+Loss_re is:304.6731
+Loss_r is:1839675392.0000
+Loss is:1844962176.0000
+contrastive_loss is:2.2095
+        |==>  acc: 0.6450,  nmi: 0.6882  <==|
+torch.Size([14392000])
+Epoch 162/1000
+Loss_re is:305.7410
+Loss_r is:1827886336.0000
+Loss is:1833221504.0000
+contrastive_loss is:2.2019
+        |==>  acc: 0.6450,  nmi: 0.6907  <==|
+torch.Size([14392000])
+Epoch 163/1000
+Loss_re is:306.6838
+Loss_r is:1814152704.0000
+Loss is:1819485696.0000
+contrastive_loss is:2.1975
+        |==>  acc: 0.6455,  nmi: 0.6913  <==|
+torch.Size([14392000])
+Epoch 164/1000
+Loss_re is:307.6820
+Loss_r is:1805284352.0000
+Loss is:1810637056.0000
+contrastive_loss is:2.1963
+        |==>  acc: 0.6460,  nmi: 0.6899  <==|
+torch.Size([14392000])
+Epoch 165/1000
+Loss_re is:308.6866
+Loss_r is:1795539200.0000
+Loss is:1800916224.0000
+contrastive_loss is:2.1898
+        |==>  acc: 0.6465,  nmi: 0.6924  <==|
+torch.Size([14392000])
+Epoch 166/1000
+Loss_re is:309.6549
+Loss_r is:1782838272.0000
+Loss is:1788225152.0000
+contrastive_loss is:2.1836
+        |==>  acc: 0.6550,  nmi: 0.6943  <==|
+torch.Size([14392000])
+Epoch 167/1000
+Loss_re is:310.6561
+Loss_r is:1772829440.0000
+Loss is:1778240512.0000
+contrastive_loss is:2.1792
+        |==>  acc: 0.6785,  nmi: 0.7016  <==|
+测试准确率为: 0.68 %
+测试最大准确率为: 0.68 %
+167
+torch.Size([14392000])
+Epoch 168/1000
+Loss_re is:311.6646
+Loss_r is:1764506368.0000
+Loss is:1769945472.0000
+contrastive_loss is:2.1805
+        |==>  acc: 0.6260,  nmi: 0.6732  <==|
+torch.Size([14392000])
+Epoch 169/1000
+Loss_re is:312.6366
+Loss_r is:1753922304.0000
+Loss is:1759376000.0000
+contrastive_loss is:2.1751
+        |==>  acc: 0.6455,  nmi: 0.6922  <==|
+torch.Size([14392000])
+Epoch 170/1000
+Loss_re is:313.5908
+Loss_r is:1743178496.0000
+Loss is:1748641024.0000
+contrastive_loss is:2.1675
+        |==>  acc: 0.6455,  nmi: 0.6927  <==|
+torch.Size([14392000])
+Epoch 171/1000
+Loss_re is:314.6179
+Loss_r is:1735363328.0000
+Loss is:1740864256.0000
+contrastive_loss is:2.1649
+        |==>  acc: 0.6270,  nmi: 0.6722  <==|
+torch.Size([14392000])
+Epoch 172/1000
+Loss_re is:315.5076
+Loss_r is:1729081216.0000
+Loss is:1734564352.0000
+contrastive_loss is:2.1641
+        |==>  acc: 0.6780,  nmi: 0.7013  <==|
+测试准确率为: 0.68 %
+测试最大准确率为: 0.68 %
+167
+torch.Size([14392000])
+Epoch 173/1000
+Loss_re is:316.5909
+Loss_r is:1721847040.0000
+Loss is:1727383168.0000
+contrastive_loss is:2.1609
+        |==>  acc: 0.6450,  nmi: 0.6912  <==|
+torch.Size([14392000])
+Epoch 174/1000
+Loss_re is:317.4225
+Loss_r is:1713510656.0000
+Loss is:1719004800.0000
+contrastive_loss is:2.1642
+        |==>  acc: 0.6450,  nmi: 0.6898  <==|
+torch.Size([14392000])
+Epoch 175/1000
+Loss_re is:318.4909
+Loss_r is:1700298880.0000
+Loss is:1705828352.0000
+contrastive_loss is:2.1615
+        |==>  acc: 0.6780,  nmi: 0.6999  <==|
+测试准确率为: 0.68 %
+测试最大准确率为: 0.68 %
+167
+torch.Size([14392000])
+Epoch 176/1000
+Loss_re is:319.4023
+Loss_r is:1685493504.0000
+Loss is:1691006080.0000
+contrastive_loss is:2.1499
+        |==>  acc: 0.6465,  nmi: 0.6893  <==|
+torch.Size([14392000])
+Epoch 177/1000
+Loss_re is:320.3748
+Loss_r is:1676110208.0000
+Loss is:1681623808.0000
+contrastive_loss is:2.1447
+        |==>  acc: 0.6450,  nmi: 0.6885  <==|
+torch.Size([14392000])
+Epoch 178/1000
+Loss_re is:321.4573
+Loss_r is:1670842624.0000
+Loss is:1676397056.0000
+contrastive_loss is:2.1466
+        |==>  acc: 0.6455,  nmi: 0.6885  <==|
+torch.Size([14392000])
+Epoch 179/1000
+Loss_re is:322.3540
+Loss_r is:1661978112.0000
+Loss is:1667513984.0000
+contrastive_loss is:2.1458
+        |==>  acc: 0.6460,  nmi: 0.6888  <==|
+torch.Size([14392000])
+Epoch 180/1000
+Loss_re is:323.4227
+Loss_r is:1648351232.0000
+Loss is:1653921664.0000
+contrastive_loss is:2.1359
+        |==>  acc: 0.6465,  nmi: 0.6888  <==|
+torch.Size([14392000])
+Epoch 181/1000
+Loss_re is:324.3965
+Loss_r is:1638004736.0000
+Loss is:1643581184.0000
+contrastive_loss is:2.1319
+        |==>  acc: 0.6460,  nmi: 0.6875  <==|
+torch.Size([14392000])
+Epoch 182/1000
+Loss_re is:325.3218
+Loss_r is:1632196480.0000
+Loss is:1637765504.0000
+contrastive_loss is:2.1325
+        |==>  acc: 0.6780,  nmi: 0.6975  <==|
+测试准确率为: 0.68 %
+测试最大准确率为: 0.68 %
+167
+torch.Size([14392000])
+Epoch 183/1000
+Loss_re is:326.3901
+Loss_r is:1624038528.0000
+Loss is:1629648384.0000
+contrastive_loss is:2.1304
+        |==>  acc: 0.6440,  nmi: 0.6853  <==|
+torch.Size([14392000])
+Epoch 184/1000
+Loss_re is:327.2805
+Loss_r is:1612325760.0000
+Loss is:1617922048.0000
+contrastive_loss is:2.1256
+        |==>  acc: 0.6045,  nmi: 0.6598  <==|
+torch.Size([14392000])
+Epoch 185/1000
+Loss_re is:328.2764
+Loss_r is:1602332928.0000
+Loss is:1607950080.0000
+contrastive_loss is:2.1210
+        |==>  acc: 0.6425,  nmi: 0.6867  <==|
+torch.Size([14392000])
+Epoch 186/1000
+Loss_re is:329.2618
+Loss_r is:1595477760.0000
+Loss is:1601111040.0000
+contrastive_loss is:2.1239
+        |==>  acc: 0.6495,  nmi: 0.6886  <==|
+torch.Size([14392000])
+Epoch 187/1000
+Loss_re is:330.1692
+Loss_r is:1587328512.0000
+Loss is:1592958208.0000
+contrastive_loss is:2.1216
+        |==>  acc: 0.6500,  nmi: 0.6854  <==|
+torch.Size([14392000])
+Epoch 188/1000
+Loss_re is:331.1701
+Loss_r is:1576666240.0000
+Loss is:1582321024.0000
+contrastive_loss is:2.1141
+        |==>  acc: 0.6435,  nmi: 0.6851  <==|
+torch.Size([14392000])
+Epoch 189/1000
+Loss_re is:332.1165
+Loss_r is:1567166336.0000
+Loss is:1572831872.0000
+contrastive_loss is:2.1098
+        |==>  acc: 0.6285,  nmi: 0.6688  <==|
+torch.Size([14392000])
+Epoch 190/1000
+Loss_re is:333.0309
+Loss_r is:1559908608.0000
+Loss is:1565573632.0000
+contrastive_loss is:2.1092
+        |==>  acc: 0.6805,  nmi: 0.6975  <==|
+测试准确率为: 0.68 %
+测试最大准确率为: 0.68 %
+190
+torch.Size([14392000])
+Epoch 191/1000
+Loss_re is:334.0379
+Loss_r is:1552161024.0000
+Loss is:1557855872.0000
+contrastive_loss is:2.1083
+        |==>  acc: 0.6285,  nmi: 0.6705  <==|
+torch.Size([14392000])
+Epoch 192/1000
+Loss_re is:334.9204
+Loss_r is:1542734336.0000
+Loss is:1548422272.0000
+contrastive_loss is:2.1058
+        |==>  acc: 0.6445,  nmi: 0.6833  <==|
+torch.Size([14392000])
+Epoch 193/1000
+Loss_re is:335.8915
+Loss_r is:1533509760.0000
+Loss is:1539220864.0000
+contrastive_loss is:2.1017
+        |==>  acc: 0.6070,  nmi: 0.6601  <==|
+torch.Size([14392000])
+Epoch 194/1000
+Loss_re is:336.8231
+Loss_r is:1526059776.0000
+Loss is:1531781632.0000
+contrastive_loss is:2.1022
+        |==>  acc: 0.6560,  nmi: 0.6887  <==|
+torch.Size([14392000])
+Epoch 195/1000
+Loss_re is:337.7340
+Loss_r is:1519538176.0000
+Loss is:1525267712.0000
+contrastive_loss is:2.1029
+        |==>  acc: 0.6835,  nmi: 0.6926  <==|
+测试准确率为: 0.68 %
+测试最大准确率为: 0.68 %
+195
+torch.Size([14392000])
+Epoch 196/1000
+Loss_re is:338.6697
+Loss_r is:1513496576.0000
+Loss is:1519239040.0000
+contrastive_loss is:2.1030
+        |==>  acc: 0.6490,  nmi: 0.6848  <==|
+torch.Size([14392000])
+Epoch 197/1000
+Loss_re is:339.6134
+Loss_r is:1510257024.0000
+Loss is:1516019328.0000
+contrastive_loss is:2.1027
+        |==>  acc: 0.6100,  nmi: 0.6581  <==|
+torch.Size([14392000])
+Epoch 198/1000
+Loss_re is:340.4331
+Loss_r is:1514582400.0000
+Loss is:1520308096.0000
+contrastive_loss is:2.1126
+        |==>  acc: 0.6860,  nmi: 0.6949  <==|
+测试准确率为: 0.69 %
+测试最大准确率为: 0.69 %
+198
+torch.Size([14392000])
+Epoch 199/1000
+Loss_re is:341.4908
+Loss_r is:1516193280.0000
+Loss is:1521965440.0000
+contrastive_loss is:2.1207
+        |==>  acc: 0.6580,  nmi: 0.6855  <==|
+torch.Size([14392000])
+Epoch 200/1000
+Loss_re is:342.1761
+Loss_r is:1503269632.0000
+Loss is:1508932736.0000
+contrastive_loss is:2.1178
+        |==>  acc: 0.6510,  nmi: 0.6855  <==|
+torch.Size([14392000])
+Epoch 201/1000
+Loss_re is:343.2427
+Loss_r is:1475364352.0000
+Loss is:1481057664.0000
+contrastive_loss is:2.0945
+        |==>  acc: 0.6585,  nmi: 0.6862  <==|
+torch.Size([14392000])
+Epoch 202/1000
+Loss_re is:344.1444
+Loss_r is:1473650816.0000
+Loss is:1479326592.0000
+contrastive_loss is:2.1004
+        |==>  acc: 0.6330,  nmi: 0.6681  <==|
+torch.Size([14392000])
+Epoch 203/1000
+Loss_re is:345.0057
+Loss_r is:1474358272.0000
+Loss is:1479986560.0000
+contrastive_loss is:2.1292
+        |==>  acc: 0.6500,  nmi: 0.6848  <==|
+torch.Size([14392000])
+Epoch 204/1000
+Loss_re is:346.0498
+Loss_r is:1453606272.0000
+Loss is:1459252480.0000
+contrastive_loss is:2.1009
+        |==>  acc: 0.6095,  nmi: 0.6575  <==|
+torch.Size([14392000])
+Epoch 205/1000
+Loss_re is:346.9202
+Loss_r is:1450982016.0000
+Loss is:1456593664.0000
+contrastive_loss is:2.1044
+        |==>  acc: 0.6085,  nmi: 0.6575  <==|
+torch.Size([14392000])
+Epoch 206/1000
+Loss_re is:347.8632
+Loss_r is:1449558400.0000
+Loss is:1455145728.0000
+contrastive_loss is:2.1361
+        |==>  acc: 0.6500,  nmi: 0.6869  <==|
+torch.Size([14392000])
+Epoch 207/1000
+Loss_re is:348.8087
+Loss_r is:1429398528.0000
+Loss is:1434970368.0000
+contrastive_loss is:2.0963
+        |==>  acc: 0.6595,  nmi: 0.6902  <==|
+torch.Size([14392000])
+Epoch 208/1000
+Loss_re is:349.8085
+Loss_r is:1427728896.0000
+Loss is:1433315968.0000
+contrastive_loss is:2.0983
+        |==>  acc: 0.6115,  nmi: 0.6593  <==|
+torch.Size([14392000])
+Epoch 209/1000
+Loss_re is:350.7407
+Loss_r is:1424655616.0000
+Loss is:1430230016.0000
+contrastive_loss is:2.1202
+        |==>  acc: 0.6120,  nmi: 0.6595  <==|
+torch.Size([14392000])
+Epoch 210/1000
+Loss_re is:351.6598
+Loss_r is:1409966592.0000
+Loss is:1415527808.0000
+contrastive_loss is:2.0878
+        |==>  acc: 0.6500,  nmi: 0.6870  <==|
+torch.Size([14392000])
+Epoch 211/1000
+Loss_re is:352.7004
+Loss_r is:1408655872.0000
+Loss is:1414250112.0000
+contrastive_loss is:2.0969
+        |==>  acc: 0.6115,  nmi: 0.6583  <==|
+torch.Size([14392000])
+Epoch 212/1000
+Loss_re is:353.5193
+Loss_r is:1400482304.0000
+Loss is:1406029312.0000
+contrastive_loss is:2.0977
+        |==>  acc: 0.6020,  nmi: 0.6464  <==|
+torch.Size([14392000])
+Epoch 213/1000
+Loss_re is:354.4696
+Loss_r is:1388279808.0000
+Loss is:1393829376.0000
+contrastive_loss is:2.0828
+        |==>  acc: 0.6325,  nmi: 0.6660  <==|
+torch.Size([14392000])
+Epoch 214/1000
+Loss_re is:355.4868
+Loss_r is:1388777856.0000
+Loss is:1394364160.0000
+contrastive_loss is:2.0942
+        |==>  acc: 0.6000,  nmi: 0.6463  <==|
+torch.Size([14392000])
+Epoch 215/1000
+Loss_re is:356.2856
+Loss_r is:1380076032.0000
+Loss is:1385618176.0000
+contrastive_loss is:2.0883
+        |==>  acc: 0.6495,  nmi: 0.6859  <==|
+torch.Size([14392000])
+Epoch 216/1000
+Loss_re is:357.2748
+Loss_r is:1369913088.0000
+Loss is:1375479552.0000
+contrastive_loss is:2.0841
+        |==>  acc: 0.6015,  nmi: 0.6450  <==|
+torch.Size([14392000])
+Epoch 217/1000
+Loss_re is:358.2057
+Loss_r is:1367913472.0000
+Loss is:1373497984.0000
+contrastive_loss is:2.0940
+        |==>  acc: 0.6135,  nmi: 0.6539  <==|
+torch.Size([14392000])
+Epoch 218/1000
+Loss_re is:359.0551
+Loss_r is:1358030336.0000
+Loss is:1363591680.0000
+contrastive_loss is:2.0829
+        |==>  acc: 0.6020,  nmi: 0.6456  <==|
+torch.Size([14392000])
+Epoch 219/1000
+Loss_re is:359.9838
+Loss_r is:1350637568.0000
+Loss is:1356205952.0000
+contrastive_loss is:2.0841
+        |==>  acc: 0.6020,  nmi: 0.6449  <==|
+torch.Size([14392000])
+Epoch 220/1000
+Loss_re is:360.9061
+Loss_r is:1348582784.0000
+Loss is:1354169088.0000
+contrastive_loss is:2.0898
+        |==>  acc: 0.6135,  nmi: 0.6538  <==|
+torch.Size([14392000])
+Epoch 221/1000
+Loss_re is:361.8121
+Loss_r is:1339436544.0000
+Loss is:1345024000.0000
+contrastive_loss is:2.0856
+        |==>  acc: 0.6010,  nmi: 0.6442  <==|
+torch.Size([14392000])
+Epoch 222/1000
+Loss_re is:362.6726
+Loss_r is:1332576768.0000
+Loss is:1338152960.0000
+contrastive_loss is:2.0817
+        |==>  acc: 0.6120,  nmi: 0.6514  <==|
+torch.Size([14392000])
+Epoch 223/1000
+Loss_re is:363.6672
+Loss_r is:1328535040.0000
+Loss is:1334154240.0000
+contrastive_loss is:2.0823
+        |==>  acc: 0.6005,  nmi: 0.6442  <==|
+torch.Size([14392000])
+Epoch 224/1000
+Loss_re is:364.5094
+Loss_r is:1319762944.0000
+Loss is:1325367552.0000
+contrastive_loss is:2.0813
+        |==>  acc: 0.6010,  nmi: 0.6435  <==|
+torch.Size([14392000])
+Epoch 225/1000
+Loss_re is:365.4121
+Loss_r is:1313363072.0000
+Loss is:1318970496.0000
+contrastive_loss is:2.0790
+        |==>  acc: 0.6010,  nmi: 0.6433  <==|
+torch.Size([14392000])
+Epoch 226/1000
+Loss_re is:366.3690
+Loss_r is:1309388800.0000
+Loss is:1315028992.0000
+contrastive_loss is:2.0819
+        |==>  acc: 0.6020,  nmi: 0.6438  <==|
+torch.Size([14392000])
+Epoch 227/1000
+Loss_re is:367.2076
+Loss_r is:1302120064.0000
+Loss is:1307749504.0000
+contrastive_loss is:2.0782
+        |==>  acc: 0.6140,  nmi: 0.6541  <==|
+torch.Size([14392000])
+Epoch 228/1000
+Loss_re is:368.1416
+Loss_r is:1296101248.0000
+Loss is:1301746560.0000
+contrastive_loss is:2.0796
+        |==>  acc: 0.6020,  nmi: 0.6469  <==|
+torch.Size([14392000])
+Epoch 229/1000
+Loss_re is:369.0231
+Loss_r is:1292172032.0000
+Loss is:1297829120.0000
+contrastive_loss is:2.0839
+        |==>  acc: 0.5970,  nmi: 0.6435  <==|
+torch.Size([14392000])
+Epoch 230/1000
+Loss_re is:369.9382
+Loss_r is:1285974016.0000
+Loss is:1291646208.0000
+contrastive_loss is:2.0803
+        |==>  acc: 0.5930,  nmi: 0.6428  <==|
+torch.Size([14392000])
+Epoch 231/1000
+Loss_re is:370.7581
+Loss_r is:1279908992.0000
+Loss is:1285561856.0000
+contrastive_loss is:2.0761
+        |==>  acc: 0.6110,  nmi: 0.6488  <==|
+torch.Size([14392000])
+Epoch 232/1000
+Loss_re is:371.7365
+Loss_r is:1275666432.0000
+Loss is:1281359360.0000
+contrastive_loss is:2.0754
+        |==>  acc: 0.5930,  nmi: 0.6429  <==|
+torch.Size([14392000])
+Epoch 233/1000
+Loss_re is:372.5106
+Loss_r is:1270019072.0000
+Loss is:1275681792.0000
+contrastive_loss is:2.0765
+        |==>  acc: 0.5945,  nmi: 0.6410  <==|
+torch.Size([14392000])
+Epoch 234/1000
+Loss_re is:373.4812
+Loss_r is:1263153408.0000
+Loss is:1268845696.0000
+contrastive_loss is:2.0744
+        |==>  acc: 0.6120,  nmi: 0.6517  <==|
+torch.Size([14392000])
+Epoch 235/1000
+Loss_re is:374.3103
+Loss_r is:1257581568.0000
+Loss is:1263269888.0000
+contrastive_loss is:2.0757
+        |==>  acc: 0.6130,  nmi: 0.6530  <==|
+torch.Size([14392000])
+Epoch 236/1000
+Loss_re is:375.2333
+Loss_r is:1251955968.0000
+Loss is:1257662976.0000
+contrastive_loss is:2.0767
+        |==>  acc: 0.5925,  nmi: 0.6412  <==|
+torch.Size([14392000])
+Epoch 237/1000
+Loss_re is:376.0896
+Loss_r is:1245248640.0000
+Loss is:1250956288.0000
+contrastive_loss is:2.0729
+        |==>  acc: 0.6120,  nmi: 0.6513  <==|
+torch.Size([14392000])
+Epoch 238/1000
+Loss_re is:377.0025
+Loss_r is:1239281792.0000
+Loss is:1245012864.0000
+contrastive_loss is:2.0705
+        |==>  acc: 0.5940,  nmi: 0.6412  <==|
+torch.Size([14392000])
+Epoch 239/1000
+Loss_re is:377.8484
+Loss_r is:1234346240.0000
+Loss is:1240077312.0000
+contrastive_loss is:2.0718
+        |==>  acc: 0.6130,  nmi: 0.6517  <==|
+torch.Size([14392000])
+Epoch 240/1000
+Loss_re is:378.7400
+Loss_r is:1228950784.0000
+Loss is:1234697600.0000
+contrastive_loss is:2.0710
+        |==>  acc: 0.5945,  nmi: 0.6429  <==|
+torch.Size([14392000])
+Epoch 241/1000
+Loss_re is:379.6091
+Loss_r is:1223272320.0000
+Loss is:1229032064.0000
+contrastive_loss is:2.0692
+        |==>  acc: 0.5935,  nmi: 0.6415  <==|
+torch.Size([14392000])
+Epoch 242/1000
+Loss_re is:380.4500
+Loss_r is:1218347136.0000
+Loss is:1224107904.0000
+contrastive_loss is:2.0693
+        |==>  acc: 0.5930,  nmi: 0.6408  <==|
+torch.Size([14392000])
+Epoch 243/1000
+Loss_re is:381.3643
+Loss_r is:1214004992.0000
+Loss is:1219793024.0000
+contrastive_loss is:2.0685
+        |==>  acc: 0.5910,  nmi: 0.6398  <==|
+torch.Size([14392000])
+Epoch 244/1000
+Loss_re is:382.1498
+Loss_r is:1209849088.0000
+Loss is:1215622400.0000
+contrastive_loss is:2.0691
+        |==>  acc: 0.5895,  nmi: 0.6414  <==|
+torch.Size([14392000])
+Epoch 245/1000
+Loss_re is:383.0976
+Loss_r is:1206371840.0000
+Loss is:1212180224.0000
+contrastive_loss is:2.0702
+        |==>  acc: 0.5895,  nmi: 0.6393  <==|
+torch.Size([14392000])
+Epoch 246/1000
+Loss_re is:383.8346
+Loss_r is:1204833024.0000
+Loss is:1210608256.0000
+contrastive_loss is:2.0758
+        |==>  acc: 0.5905,  nmi: 0.6392  <==|
+torch.Size([14392000])
+Epoch 247/1000
+Loss_re is:384.8309
+Loss_r is:1205357824.0000
+Loss is:1211176704.0000
+contrastive_loss is:2.0814
+        |==>  acc: 0.5900,  nmi: 0.6405  <==|
+torch.Size([14392000])
+Epoch 248/1000
+Loss_re is:385.4849
+Loss_r is:1204598784.0000
+Loss is:1210348032.0000
+contrastive_loss is:2.0851
+        |==>  acc: 0.5895,  nmi: 0.6403  <==|
+torch.Size([14392000])
+Epoch 249/1000
+Loss_re is:386.5288
+Loss_r is:1197298176.0000
+Loss is:1203093760.0000
+contrastive_loss is:2.0789
+        |==>  acc: 0.5890,  nmi: 0.6400  <==|
+torch.Size([14392000])
+Epoch 250/1000
+Loss_re is:387.2035
+Loss_r is:1184016128.0000
+Loss is:1189740544.0000
+contrastive_loss is:2.0717
+        |==>  acc: 0.5890,  nmi: 0.6387  <==|
+torch.Size([14392000])
+Epoch 251/1000
+Loss_re is:388.1639
+Loss_r is:1175168384.0000
+Loss is:1180917632.0000
+contrastive_loss is:2.0674
+        |==>  acc: 0.5895,  nmi: 0.6412  <==|
+torch.Size([14392000])
+Epoch 252/1000
+Loss_re is:389.0905
+Loss_r is:1173980800.0000
+Loss is:1179755264.0000
+contrastive_loss is:2.0745
+        |==>  acc: 0.5895,  nmi: 0.6415  <==|
+torch.Size([14392000])
+Epoch 253/1000
+Loss_re is:389.8761
+Loss_r is:1172567936.0000
+Loss is:1178323328.0000
+contrastive_loss is:2.0816
+        |==>  acc: 0.5875,  nmi: 0.6397  <==|
+torch.Size([14392000])
+Epoch 254/1000
+Loss_re is:390.8904
+Loss_r is:1166125568.0000
+Loss is:1171934080.0000
+contrastive_loss is:2.0741
+        |==>  acc: 0.5895,  nmi: 0.6410  <==|
+torch.Size([14392000])
+Epoch 255/1000
+Loss_re is:391.6201
+Loss_r is:1158152704.0000
+Loss is:1163922816.0000
+contrastive_loss is:2.0686
+        |==>  acc: 0.5895,  nmi: 0.6410  <==|
+torch.Size([14392000])
+Epoch 256/1000
+Loss_re is:392.5245
+Loss_r is:1153787136.0000
+Loss is:1159574400.0000
+contrastive_loss is:2.0703
+        |==>  acc: 0.5900,  nmi: 0.6419  <==|
+torch.Size([14392000])
+Epoch 257/1000
+Loss_re is:393.3690
+Loss_r is:1151421696.0000
+Loss is:1157208576.0000
+contrastive_loss is:2.0776
+        |==>  acc: 0.5875,  nmi: 0.6389  <==|
+torch.Size([14392000])
+Epoch 258/1000
+Loss_re is:394.1543
+Loss_r is:1146121728.0000
+Loss is:1151893248.0000
+contrastive_loss is:2.0756
+        |==>  acc: 0.5880,  nmi: 0.6383  <==|
+torch.Size([14392000])
+Epoch 259/1000
+Loss_re is:395.0546
+Loss_r is:1138940928.0000
+Loss is:1144734976.0000
+contrastive_loss is:2.0665
+        |==>  acc: 0.5840,  nmi: 0.6392  <==|
+torch.Size([14392000])
+Epoch 260/1000
+Loss_re is:395.8398
+Loss_r is:1134031872.0000
+Loss is:1139815552.0000
+contrastive_loss is:2.0651
+        |==>  acc: 0.5840,  nmi: 0.6391  <==|
+torch.Size([14392000])
+Epoch 261/1000
+Loss_re is:396.7017
+Loss_r is:1131704320.0000
+Loss is:1137504896.0000
+contrastive_loss is:2.0704
+        |==>  acc: 0.5870,  nmi: 0.6402  <==|
+torch.Size([14392000])
+Epoch 262/1000
+Loss_re is:397.5313
+Loss_r is:1128846848.0000
+Loss is:1134648576.0000
+contrastive_loss is:2.0748
+        |==>  acc: 0.5880,  nmi: 0.6407  <==|
+torch.Size([14392000])
+Epoch 263/1000
+Loss_re is:398.3453
+Loss_r is:1123247232.0000
+Loss is:1129047552.0000
+contrastive_loss is:2.0705
+        |==>  acc: 0.5875,  nmi: 0.6404  <==|
+torch.Size([14392000])
+Epoch 264/1000
+Loss_re is:399.1749
+Loss_r is:1116706688.0000
+Loss is:1122505472.0000
+contrastive_loss is:2.0649
+        |==>  acc: 0.5895,  nmi: 0.6415  <==|
+torch.Size([14392000])
+Epoch 265/1000
+Loss_re is:399.9944
+Loss_r is:1111947008.0000
+Loss is:1117750528.0000
+contrastive_loss is:2.0634
+        |==>  acc: 0.5885,  nmi: 0.6407  <==|
+torch.Size([14392000])
+Epoch 266/1000
+Loss_re is:400.8085
+Loss_r is:1109170688.0000
+Loss is:1114985216.0000
+contrastive_loss is:2.0663
+        |==>  acc: 0.5895,  nmi: 0.6420  <==|
+torch.Size([14392000])
+Epoch 267/1000
+Loss_re is:401.6307
+Loss_r is:1106258688.0000
+Loss is:1112080256.0000
+contrastive_loss is:2.0697
+        |==>  acc: 0.5900,  nmi: 0.6419  <==|
+torch.Size([14392000])
+Epoch 268/1000
+Loss_re is:402.4285
+Loss_r is:1101894912.0000
+Loss is:1107724928.0000
+contrastive_loss is:2.0689
+        |==>  acc: 0.5865,  nmi: 0.6406  <==|
+torch.Size([14392000])
+Epoch 269/1000
+Loss_re is:403.2193
+Loss_r is:1096787968.0000
+Loss is:1102614016.0000
+contrastive_loss is:2.0668
+        |==>  acc: 0.5895,  nmi: 0.6407  <==|
+torch.Size([14392000])
+Epoch 270/1000
+Loss_re is:404.0348
+Loss_r is:1091778944.0000
+Loss is:1097617024.0000
+contrastive_loss is:2.0640
+        |==>  acc: 0.5900,  nmi: 0.6423  <==|
+torch.Size([14392000])
+Epoch 271/1000
+Loss_re is:404.7994
+Loss_r is:1087740032.0000
+Loss is:1093573248.0000
+contrastive_loss is:2.0631
+        |==>  acc: 0.5895,  nmi: 0.6420  <==|
+torch.Size([14392000])
+Epoch 272/1000
+Loss_re is:405.6400
+Loss_r is:1084543232.0000
+Loss is:1090397952.0000
+contrastive_loss is:2.0643
+        |==>  acc: 0.5895,  nmi: 0.6412  <==|
+torch.Size([14392000])
+Epoch 273/1000
+Loss_re is:406.3836
+Loss_r is:1081190400.0000
+Loss is:1087042048.0000
+contrastive_loss is:2.0672
+        |==>  acc: 0.5905,  nmi: 0.6424  <==|
+torch.Size([14392000])
+Epoch 274/1000
+Loss_re is:407.2103
+Loss_r is:1077371904.0000
+Loss is:1083237632.0000
+contrastive_loss is:2.0672
+        |==>  acc: 0.5910,  nmi: 0.6425  <==|
+torch.Size([14392000])
+Epoch 275/1000
+Loss_re is:407.9499
+Loss_r is:1072909696.0000
+Loss is:1078770304.0000
+contrastive_loss is:2.0658
+        |==>  acc: 0.5905,  nmi: 0.6419  <==|
+torch.Size([14392000])
+Epoch 276/1000
+Loss_re is:408.7498
+Loss_r is:1068400768.0000
+Loss is:1074269696.0000
+contrastive_loss is:2.0632
+        |==>  acc: 0.5910,  nmi: 0.6425  <==|
+torch.Size([14392000])
+Epoch 277/1000
+Loss_re is:409.5181
+Loss_r is:1064047360.0000
+Loss is:1069924864.0000
+contrastive_loss is:2.0618
+        |==>  acc: 0.5900,  nmi: 0.6401  <==|
+torch.Size([14392000])
+Epoch 278/1000
+Loss_re is:410.2839
+Loss_r is:1060246016.0000
+Loss is:1066126720.0000
+contrastive_loss is:2.0614
+        |==>  acc: 0.5905,  nmi: 0.6414  <==|
+torch.Size([14392000])
+Epoch 279/1000
+Loss_re is:411.0869
+Loss_r is:1056773888.0000
+Loss is:1062678976.0000
+contrastive_loss is:2.0608
+        |==>  acc: 0.5910,  nmi: 0.6410  <==|
+torch.Size([14392000])
+Epoch 280/1000
+Loss_re is:411.8016
+Loss_r is:1053703616.0000
+Loss is:1059596608.0000
+contrastive_loss is:2.0613
+        |==>  acc: 0.5915,  nmi: 0.6402  <==|
+torch.Size([14392000])
+Epoch 281/1000
+Loss_re is:412.6263
+Loss_r is:1051049280.0000
+Loss is:1056971840.0000
+contrastive_loss is:2.0612
+        |==>  acc: 0.5915,  nmi: 0.6426  <==|
+torch.Size([14392000])
+Epoch 282/1000
+Loss_re is:413.2758
+Loss_r is:1049073024.0000
+Loss is:1054962176.0000
+contrastive_loss is:2.0627
+        |==>  acc: 0.5920,  nmi: 0.6437  <==|
+torch.Size([14392000])
+Epoch 283/1000
+Loss_re is:414.1481
+Loss_r is:1047993472.0000
+Loss is:1053928192.0000
+contrastive_loss is:2.0635
+        |==>  acc: 0.5910,  nmi: 0.6432  <==|
+torch.Size([14392000])
+Epoch 284/1000
+Loss_re is:414.7133
+Loss_r is:1048739328.0000
+Loss is:1054606784.0000
+contrastive_loss is:2.0666
+        |==>  acc: 0.5910,  nmi: 0.6433  <==|
+torch.Size([14392000])
+Epoch 285/1000
+Loss_re is:415.6725
+Loss_r is:1052422784.0000
+Loss is:1058366976.0000
+contrastive_loss is:2.0678
+        |==>  acc: 0.5900,  nmi: 0.6407  <==|
+torch.Size([14392000])
+Epoch 286/1000
+Loss_re is:416.1091
+Loss_r is:1060676416.0000
+Loss is:1066482944.0000
+contrastive_loss is:2.0768
+        |==>  acc: 0.5920,  nmi: 0.6438  <==|
+torch.Size([14392000])
+Epoch 287/1000
+Loss_re is:417.1659
+Loss_r is:1062879808.0000
+Loss is:1068791680.0000
+contrastive_loss is:2.0870
+        |==>  acc: 0.5920,  nmi: 0.6453  <==|
+torch.Size([14392000])
+Epoch 288/1000
+Loss_re is:417.5453
+Loss_r is:1055826176.0000
+Loss is:1061542912.0000
+contrastive_loss is:2.0950
+        |==>  acc: 0.5920,  nmi: 0.6455  <==|
+torch.Size([14392000])
+Epoch 289/1000
+Loss_re is:418.5365
+Loss_r is:1028958592.0000
+Loss is:1034743040.0000
+contrastive_loss is:2.0777
+        |==>  acc: 0.5905,  nmi: 0.6453  <==|
+torch.Size([14392000])
+Epoch 290/1000
+Loss_re is:419.2593
+Loss_r is:1021579136.0000
+Loss is:1027339328.0000
+contrastive_loss is:2.0602
+        |==>  acc: 0.5895,  nmi: 0.6426  <==|
+torch.Size([14392000])
+Epoch 291/1000
+Loss_re is:419.9178
+Loss_r is:1030665472.0000
+Loss is:1036361216.0000
+contrastive_loss is:2.0883
+        |==>  acc: 0.5895,  nmi: 0.6411  <==|
+torch.Size([14392000])
+Epoch 292/1000
+Loss_re is:420.9186
+Loss_r is:1025521280.0000
+Loss is:1031309632.0000
+contrastive_loss is:2.1025
+        |==>  acc: 0.5910,  nmi: 0.6424  <==|
+torch.Size([14392000])
+Epoch 293/1000
+Loss_re is:421.4435
+Loss_r is:1018340992.0000
+Loss is:1024014720.0000
+contrastive_loss is:2.0690
+        |==>  acc: 0.5900,  nmi: 0.6419  <==|
+torch.Size([14392000])
+Epoch 294/1000
+Loss_re is:422.2971
+Loss_r is:1017191808.0000
+Loss is:1022869056.0000
+contrastive_loss is:2.0929
+        |==>  acc: 0.5900,  nmi: 0.6405  <==|
+torch.Size([14392000])
+Epoch 295/1000
+Loss_re is:422.9859
+Loss_r is:1008471040.0000
+Loss is:1014115456.0000
+contrastive_loss is:2.1351
+        |==>  acc: 0.5915,  nmi: 0.6401  <==|
+torch.Size([14392000])
+Epoch 296/1000
+Loss_re is:423.7101
+Loss_r is:1000717504.0000
+Loss is:1006327488.0000
+contrastive_loss is:2.0870
+        |==>  acc: 0.5930,  nmi: 0.6405  <==|
+torch.Size([14392000])
+Epoch 297/1000
+Loss_re is:424.5513
+Loss_r is:1002747520.0000
+Loss is:1008391616.0000
+contrastive_loss is:2.0826
+        |==>  acc: 0.5930,  nmi: 0.6418  <==|
+torch.Size([14392000])
+Epoch 298/1000
+Loss_re is:425.2369
+Loss_r is:1002059776.0000
+Loss is:1007686912.0000
+contrastive_loss is:2.1353
+        |==>  acc: 0.5930,  nmi: 0.6405  <==|
+torch.Size([14392000])
+Epoch 299/1000
+Loss_re is:426.0736
+Loss_r is:993962176.0000
+Loss is:999603904.0000
+contrastive_loss is:2.0883
+        |==>  acc: 0.5965,  nmi: 0.6411  <==|
+torch.Size([14392000])
+Epoch 300/1000
+Loss_re is:426.7161
+Loss_r is:988789504.0000
+Loss is:994397568.0000
+contrastive_loss is:2.0739
+        |==>  acc: 0.5930,  nmi: 0.6390  <==|
+torch.Size([14392000])
+Epoch 301/1000
+Loss_re is:427.4766
+Loss_r is:987084480.0000
+Loss is:992705664.0000
+contrastive_loss is:2.0998
+        |==>  acc: 0.5900,  nmi: 0.6394  <==|
+torch.Size([14392000])
+Epoch 302/1000
+Loss_re is:428.2289
+Loss_r is:984234752.0000
+Loss is:989866240.0000
+contrastive_loss is:2.0670
+        |==>  acc: 0.5935,  nmi: 0.6408  <==|
+torch.Size([14392000])
+Epoch 303/1000
+Loss_re is:428.8533
+Loss_r is:981219840.0000
+Loss is:986829760.0000
+contrastive_loss is:2.0792
+        |==>  acc: 0.5900,  nmi: 0.6395  <==|
+torch.Size([14392000])
+Epoch 304/1000
+Loss_re is:429.6772
+Loss_r is:978111232.0000
+Loss is:983762240.0000
+contrastive_loss is:2.0685
+        |==>  acc: 0.5920,  nmi: 0.6419  <==|
+torch.Size([14392000])
+Epoch 305/1000
+Loss_re is:430.2826
+Loss_r is:973787648.0000
+Loss is:979400704.0000
+contrastive_loss is:2.0652
+        |==>  acc: 0.5925,  nmi: 0.6392  <==|
+torch.Size([14392000])
+Epoch 306/1000
+Loss_re is:431.0217
+Loss_r is:969802880.0000
+Loss is:975443712.0000
+contrastive_loss is:2.0744
+        |==>  acc: 0.6000,  nmi: 0.6367  <==|
+torch.Size([14392000])
+Epoch 307/1000
+Loss_re is:431.7480
+Loss_r is:967218304.0000
+Loss is:972862080.0000
+contrastive_loss is:2.0588
+        |==>  acc: 0.6360,  nmi: 0.6669  <==|
+torch.Size([14392000])
+Epoch 308/1000
+Loss_re is:432.3587
+Loss_r is:965160576.0000
+Loss is:970776960.0000
+contrastive_loss is:2.0701
+        |==>  acc: 0.6520,  nmi: 0.6889  <==|
+torch.Size([14392000])
+Epoch 309/1000
+Loss_re is:433.1543
+Loss_r is:962482368.0000
+Loss is:968149184.0000
+contrastive_loss is:2.0620
+        |==>  acc: 0.6515,  nmi: 0.6874  <==|
+torch.Size([14392000])
+Epoch 310/1000
+Loss_re is:433.7539
+Loss_r is:959111680.0000
+Loss is:964737664.0000
+contrastive_loss is:2.0623
+        |==>  acc: 0.6345,  nmi: 0.6735  <==|
+torch.Size([14392000])
+Epoch 311/1000
+Loss_re is:434.4955
+Loss_r is:954980992.0000
+Loss is:960634752.0000
+contrastive_loss is:2.0620
+        |==>  acc: 0.6520,  nmi: 0.6889  <==|
+torch.Size([14392000])
+Epoch 312/1000
+Loss_re is:435.1641
+Loss_r is:951668608.0000
+Loss is:957323648.0000
+contrastive_loss is:2.0587
+        |==>  acc: 0.6380,  nmi: 0.6697  <==|
+torch.Size([14392000])
+Epoch 313/1000
+Loss_re is:435.8323
+Loss_r is:949432832.0000
+Loss is:955077632.0000
+contrastive_loss is:2.0630
+        |==>  acc: 0.6365,  nmi: 0.6676  <==|
+torch.Size([14392000])
+Epoch 314/1000
+Loss_re is:436.5536
+Loss_r is:946565056.0000
+Loss is:952238912.0000
+contrastive_loss is:2.0583
+        |==>  acc: 0.6505,  nmi: 0.6843  <==|
+torch.Size([14392000])
+Epoch 315/1000
+Loss_re is:437.1750
+Loss_r is:943643264.0000
+Loss is:949296320.0000
+contrastive_loss is:2.0608
+        |==>  acc: 0.6365,  nmi: 0.6681  <==|
+torch.Size([14392000])
+Epoch 316/1000
+Loss_re is:437.9069
+Loss_r is:941689600.0000
+Loss is:947363392.0000
+contrastive_loss is:2.0614
+        |==>  acc: 0.6355,  nmi: 0.6664  <==|
+torch.Size([14392000])
+Epoch 317/1000
+Loss_re is:438.5172
+Loss_r is:939243392.0000
+Loss is:944907648.0000
+contrastive_loss is:2.0614
+        |==>  acc: 0.6360,  nmi: 0.6675  <==|
+torch.Size([14392000])
+Epoch 318/1000
+Loss_re is:439.2412
+Loss_r is:935951616.0000
+Loss is:941630656.0000
+contrastive_loss is:2.0594
+        |==>  acc: 0.6335,  nmi: 0.6644  <==|
+torch.Size([14392000])
+Epoch 319/1000
+Loss_re is:439.8442
+Loss_r is:932778304.0000
+Loss is:938441280.0000
+contrastive_loss is:2.0580
+        |==>  acc: 0.6350,  nmi: 0.6671  <==|
+torch.Size([14392000])
+Epoch 320/1000
+Loss_re is:440.5610
+Loss_r is:930054208.0000
+Loss is:935743616.0000
+contrastive_loss is:2.0601
+        |==>  acc: 0.6450,  nmi: 0.6775  <==|
+torch.Size([14392000])
+Epoch 321/1000
+Loss_re is:441.1768
+Loss_r is:927159680.0000
+Loss is:932830784.0000
+contrastive_loss is:2.0590
+        |==>  acc: 0.6330,  nmi: 0.6648  <==|
+torch.Size([14392000])
+Epoch 322/1000
+Loss_re is:441.8758
+Loss_r is:924135680.0000
+Loss is:929831360.0000
+contrastive_loss is:2.0580
+        |==>  acc: 0.6330,  nmi: 0.6646  <==|
+torch.Size([14392000])
+Epoch 323/1000
+Loss_re is:442.5081
+Loss_r is:921457408.0000
+Loss is:927143296.0000
+contrastive_loss is:2.0592
+        |==>  acc: 0.6330,  nmi: 0.6642  <==|
+torch.Size([14392000])
+Epoch 324/1000
+Loss_re is:443.1819
+Loss_r is:918795520.0000
+Loss is:924493184.0000
+contrastive_loss is:2.0580
+        |==>  acc: 0.6310,  nmi: 0.6613  <==|
+torch.Size([14392000])
+Epoch 325/1000
+Loss_re is:443.8337
+Loss_r is:916048384.0000
+Loss is:921748736.0000
+contrastive_loss is:2.0587
+        |==>  acc: 0.6310,  nmi: 0.6623  <==|
+torch.Size([14392000])
+Epoch 326/1000
+Loss_re is:444.4787
+Loss_r is:913456640.0000
+Loss is:919154496.0000
+contrastive_loss is:2.0593
+        |==>  acc: 0.6305,  nmi: 0.6603  <==|
+torch.Size([14392000])
+Epoch 327/1000
+Loss_re is:445.1488
+Loss_r is:911040000.0000
+Loss is:916750208.0000
+contrastive_loss is:2.0596
+        |==>  acc: 0.6470,  nmi: 0.6788  <==|
+torch.Size([14392000])
+Epoch 328/1000
+Loss_re is:445.7697
+Loss_r is:908742784.0000
+Loss is:914444480.0000
+contrastive_loss is:2.0594
+        |==>  acc: 0.6470,  nmi: 0.6796  <==|
+torch.Size([14392000])
+Epoch 329/1000
+Loss_re is:446.4589
+Loss_r is:906338304.0000
+Loss is:912056832.0000
+contrastive_loss is:2.0580
+        |==>  acc: 0.6305,  nmi: 0.6617  <==|
+torch.Size([14392000])
+Epoch 330/1000
+Loss_re is:447.0519
+Loss_r is:904257088.0000
+Loss is:909958080.0000
+contrastive_loss is:2.0567
+        |==>  acc: 0.6305,  nmi: 0.6617  <==|
+torch.Size([14392000])
+Epoch 331/1000
+Loss_re is:447.7700
+Loss_r is:902917504.0000
+Loss is:908647808.0000
+contrastive_loss is:2.0554
+        |==>  acc: 0.6305,  nmi: 0.6603  <==|
+torch.Size([14392000])
+Epoch 332/1000
+Loss_re is:448.3030
+Loss_r is:902882432.0000
+Loss is:908570496.0000
+contrastive_loss is:2.0559
+        |==>  acc: 0.6310,  nmi: 0.6614  <==|
+torch.Size([14392000])
+Epoch 333/1000
+Loss_re is:449.0946
+Loss_r is:905612928.0000
+Loss is:911358080.0000
+contrastive_loss is:2.0585
+        |==>  acc: 0.6310,  nmi: 0.6614  <==|
+torch.Size([14392000])
+Epoch 334/1000
+Loss_re is:449.4932
+Loss_r is:912340224.0000
+Loss is:917977856.0000
+contrastive_loss is:2.0651
+        |==>  acc: 0.6115,  nmi: 0.6550  <==|
+torch.Size([14392000])
+Epoch 335/1000
+Loss_re is:450.4294
+Loss_r is:922200064.0000
+Loss is:927937152.0000
+contrastive_loss is:2.0682
+        |==>  acc: 0.6465,  nmi: 0.6800  <==|
+torch.Size([14392000])
+Epoch 336/1000
+Loss_re is:450.6356
+Loss_r is:926827136.0000
+Loss is:932353600.0000
+contrastive_loss is:2.0720
+        |==>  acc: 0.6305,  nmi: 0.6608  <==|
+torch.Size([14392000])
+Epoch 337/1000
+Loss_re is:451.6564
+Loss_r is:914825856.0000
+Loss is:920468608.0000
+contrastive_loss is:2.0647
+        |==>  acc: 0.6300,  nmi: 0.6608  <==|
+torch.Size([14392000])
+Epoch 338/1000
+Loss_re is:452.0189
+Loss_r is:898335680.0000
+Loss is:903810304.0000
+contrastive_loss is:2.0633
+        |==>  acc: 0.6300,  nmi: 0.6622  <==|
+torch.Size([14392000])
+Epoch 339/1000
+Loss_re is:452.8336
+Loss_r is:890019264.0000
+Loss is:895558976.0000
+contrastive_loss is:2.0721
+        |==>  acc: 0.6050,  nmi: 0.6512  <==|
+torch.Size([14392000])
+Epoch 340/1000
+Loss_re is:453.6718
+Loss_r is:892050304.0000
+Loss is:897629824.0000
+contrastive_loss is:2.0794
+        |==>  acc: 0.6135,  nmi: 0.6517  <==|
+torch.Size([14392000])
+Epoch 341/1000
+Loss_re is:454.1393
+Loss_r is:894003968.0000
+Loss is:899489728.0000
+contrastive_loss is:2.0668
+        |==>  acc: 0.6055,  nmi: 0.6521  <==|
+torch.Size([14392000])
+Epoch 342/1000
+Loss_re is:455.0867
+Loss_r is:891588416.0000
+Loss is:897171008.0000
+contrastive_loss is:2.0622
+        |==>  acc: 0.6475,  nmi: 0.6784  <==|
+torch.Size([14392000])
+Epoch 343/1000
+Loss_re is:455.5148
+Loss_r is:885269376.0000
+Loss is:890696960.0000
+contrastive_loss is:2.0839
+        |==>  acc: 0.6290,  nmi: 0.6596  <==|
+torch.Size([14392000])
+Epoch 344/1000
+Loss_re is:456.2537
+Loss_r is:876062208.0000
+Loss is:881530624.0000
+contrastive_loss is:2.0770
+        |==>  acc: 0.6000,  nmi: 0.6490  <==|
+torch.Size([14392000])
+Epoch 345/1000
+Loss_re is:457.0042
+Loss_r is:874678272.0000
+Loss is:880166720.0000
+contrastive_loss is:2.0568
+        |==>  acc: 0.6290,  nmi: 0.6590  <==|
+torch.Size([14392000])
+Epoch 346/1000
+Loss_re is:457.4824
+Loss_r is:878784768.0000
+Loss is:884180864.0000
+contrastive_loss is:2.0659
+        |==>  acc: 0.6290,  nmi: 0.6583  <==|
+torch.Size([14392000])
+Epoch 347/1000
+Loss_re is:458.3644
+Loss_r is:874300416.0000
+Loss is:879802176.0000
+contrastive_loss is:2.0764
+        |==>  acc: 0.5970,  nmi: 0.6477  <==|
+torch.Size([14392000])
+Epoch 348/1000
+Loss_re is:458.8928
+Loss_r is:865571584.0000
+Loss is:870981824.0000
+contrastive_loss is:2.0621
+        |==>  acc: 0.6275,  nmi: 0.6588  <==|
+torch.Size([14392000])
+Epoch 349/1000
+Loss_re is:459.5711
+Loss_r is:862030592.0000
+Loss is:867438272.0000
+contrastive_loss is:2.0549
+        |==>  acc: 0.6015,  nmi: 0.6500  <==|
+torch.Size([14392000])
+Epoch 350/1000
+Loss_re is:460.3402
+Loss_r is:864369152.0000
+Loss is:869832384.0000
+contrastive_loss is:2.0655
+        |==>  acc: 0.6290,  nmi: 0.6594  <==|
+torch.Size([14392000])
+Epoch 351/1000
+Loss_re is:460.8405
+Loss_r is:863992896.0000
+Loss is:869367296.0000
+contrastive_loss is:2.0658
+        |==>  acc: 0.6290,  nmi: 0.6597  <==|
+torch.Size([14392000])
+Epoch 352/1000
+Loss_re is:461.6572
+Loss_r is:857615616.0000
+Loss is:863063744.0000
+contrastive_loss is:2.0554
+        |==>  acc: 0.6450,  nmi: 0.6795  <==|
+torch.Size([14392000])
+Epoch 353/1000
+Loss_re is:462.2308
+Loss_r is:853986880.0000
+Loss is:859398272.0000
+contrastive_loss is:2.0584
+        |==>  acc: 0.6440,  nmi: 0.6795  <==|
+torch.Size([14392000])
+Epoch 354/1000
+Loss_re is:462.8687
+Loss_r is:853114944.0000
+Loss is:858500096.0000
+contrastive_loss is:2.0659
+        |==>  acc: 0.5920,  nmi: 0.6521  <==|
+torch.Size([14392000])
+Epoch 355/1000
+Loss_re is:463.5996
+Loss_r is:850606592.0000
+Loss is:856045888.0000
+contrastive_loss is:2.0597
+        |==>  acc: 0.5920,  nmi: 0.6532  <==|
+torch.Size([14392000])
+Epoch 356/1000
+Loss_re is:464.1453
+Loss_r is:848368896.0000
+Loss is:853763072.0000
+contrastive_loss is:2.0549
+        |==>  acc: 0.6035,  nmi: 0.6537  <==|
+torch.Size([14392000])
+Epoch 357/1000
+Loss_re is:464.8820
+Loss_r is:847090432.0000
+Loss is:852512704.0000
+contrastive_loss is:2.0632
+        |==>  acc: 0.6125,  nmi: 0.6500  <==|
+torch.Size([14392000])
+Epoch 358/1000
+Loss_re is:465.4637
+Loss_r is:844425472.0000
+Loss is:849835584.0000
+contrastive_loss is:2.0655
+        |==>  acc: 0.5915,  nmi: 0.6502  <==|
+torch.Size([14392000])
+Epoch 359/1000
+Loss_re is:466.1208
+Loss_r is:840747264.0000
+Loss is:846153088.0000
+contrastive_loss is:2.0550
+        |==>  acc: 0.5905,  nmi: 0.6489  <==|
+torch.Size([14392000])
+Epoch 360/1000
+Loss_re is:466.7686
+Loss_r is:837948672.0000
+Loss is:843368000.0000
+contrastive_loss is:2.0538
+        |==>  acc: 0.6210,  nmi: 0.6608  <==|
+torch.Size([14392000])
+Epoch 361/1000
+Loss_re is:467.3690
+Loss_r is:837454848.0000
+Loss is:842868160.0000
+contrastive_loss is:2.0585
+        |==>  acc: 0.5910,  nmi: 0.6502  <==|
+torch.Size([14392000])
+Epoch 362/1000
+Loss_re is:468.0576
+Loss_r is:836507328.0000
+Loss is:841934784.0000
+contrastive_loss is:2.0573
+        |==>  acc: 0.6265,  nmi: 0.6584  <==|
+torch.Size([14392000])
+Epoch 363/1000
+Loss_re is:468.6174
+Loss_r is:833644096.0000
+Loss is:839054656.0000
+contrastive_loss is:2.0545
+        |==>  acc: 0.5905,  nmi: 0.6500  <==|
+torch.Size([14392000])
+Epoch 364/1000
+Loss_re is:469.3046
+Loss_r is:830361984.0000
+Loss is:835797056.0000
+contrastive_loss is:2.0534
+        |==>  acc: 0.6280,  nmi: 0.6597  <==|
+torch.Size([14392000])
+Epoch 365/1000
+Loss_re is:469.8787
+Loss_r is:828210304.0000
+Loss is:833621056.0000
+contrastive_loss is:2.0533
+        |==>  acc: 0.6275,  nmi: 0.6577  <==|
+torch.Size([14392000])
+Epoch 366/1000
+Loss_re is:470.5313
+Loss_r is:826636544.0000
+Loss is:832073792.0000
+contrastive_loss is:2.0537
+        |==>  acc: 0.5915,  nmi: 0.6507  <==|
+torch.Size([14392000])
+Epoch 367/1000
+Loss_re is:471.1544
+Loss_r is:824875584.0000
+Loss is:830306816.0000
+contrastive_loss is:2.0551
+        |==>  acc: 0.6015,  nmi: 0.6512  <==|
+torch.Size([14392000])
+Epoch 368/1000
+Loss_re is:471.7491
+Loss_r is:822636032.0000
+Loss is:828065408.0000
+contrastive_loss is:2.0548
+        |==>  acc: 0.6280,  nmi: 0.6619  <==|
+torch.Size([14392000])
+Epoch 369/1000
+Loss_re is:472.4114
+Loss_r is:820644608.0000
+Loss is:826097152.0000
+contrastive_loss is:2.0531
+        |==>  acc: 0.5985,  nmi: 0.6510  <==|
+torch.Size([14392000])
+Epoch 370/1000
+Loss_re is:472.9583
+Loss_r is:819117696.0000
+Loss is:824536000.0000
+contrastive_loss is:2.0533
+        |==>  acc: 0.6275,  nmi: 0.6589  <==|
+torch.Size([14392000])
+Epoch 371/1000
+Loss_re is:473.6468
+Loss_r is:817549696.0000
+Loss is:823011968.0000
+contrastive_loss is:2.0532
+        |==>  acc: 0.5840,  nmi: 0.6313  <==|
+torch.Size([14392000])
+Epoch 372/1000
+Loss_re is:474.1883
+Loss_r is:815711424.0000
+Loss is:821134528.0000
+contrastive_loss is:2.0534
+        |==>  acc: 0.5825,  nmi: 0.6273  <==|
+torch.Size([14392000])
+Epoch 373/1000
+Loss_re is:474.8711
+Loss_r is:813386880.0000
+Loss is:818850624.0000
+contrastive_loss is:2.0522
+        |==>  acc: 0.5860,  nmi: 0.6303  <==|
+torch.Size([14392000])
+Epoch 374/1000
+Loss_re is:475.4216
+Loss_r is:811127936.0000
+Loss is:816564416.0000
+contrastive_loss is:2.0517
